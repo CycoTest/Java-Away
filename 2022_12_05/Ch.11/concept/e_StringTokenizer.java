@@ -1,6 +1,6 @@
 package concept;
 
-public class StringTokenizer {
+public class e_StringTokenizer {
 
 }
 /*

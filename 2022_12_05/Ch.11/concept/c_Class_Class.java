@@ -1,6 +1,6 @@
 package concept;
 
-public class Class_Class {
+public class c_Class_Class {
 
 }
 /*

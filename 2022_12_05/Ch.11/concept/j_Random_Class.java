@@ -1,6 +1,6 @@
 package concept;
 
-public class Random_Class {
+public class j_Random_Class {
 
 }
 /*

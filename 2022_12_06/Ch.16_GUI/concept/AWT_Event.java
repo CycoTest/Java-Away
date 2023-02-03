@@ -5,8 +5,6 @@ public class AWT_Event {
 }
 /*
  * 3. AWT Event
- * 	
- * 		ex) ex06, 07 : 화면Class와 Event Handler Class가 같거나 다를 경우
  * 
  * 	1) 정의
  * 		-> 자바 화면에서 사용자가 발생시키는 행위나 시스템이 
@@ -66,5 +64,23 @@ public class AWT_Event {
  * 		(11) MouseEvent
  * 			-> 마우스가 눌려지거나 움직일 때, 
  * 				마우스 커서가 Component 영역에 들어가거나 벗어날 때
+ * 	
+ * 	4) AWT Event 구동방법
+ * 
+ * 		(1) 화면Class와 Event Handler Class가 같은 경우
+ * 			
+ * 			-> 동일한 클래스 내부에 
+ * 
+ * 			ex) ex06
+ * 
+ * 		(2) 화면Class와 Event Handler Class가 다른 경우
+ * 
+ * 			->
+ * 
+ * 			ex) ex07
+ * 
+ * 		(3) 내부Class를 Event Handler Class로 사용하는 경우
+ * 	
+ * 		(4) Event Handler Class를 익명의 클래스로 사용하는 경우
  * 
  */

@@ -30,7 +30,7 @@ public class MemoNotes extends WindowAdapter {
 		ViewMenu view = new ViewMenu();
 		HelpMenu help = new HelpMenu();
 
-		mb.add(file.FileMenuSetting());
+		mb.add(file.FileFrameSetting());
 		mb.add(edit.EditMenuSetting());
 		mb.add(form.FormMenuSetting());
 		mb.add(view.ViewMenuSetting());

@@ -1,6 +1,6 @@
 package concept;
 
-public class Math_Class {
+public class i_Math_Class {
 
 }
 /*

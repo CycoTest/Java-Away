@@ -1,6 +1,6 @@
 package concept;
 
-public class String_Class {
+public class d_String_Class {
 
 }
 /*
@@ -12,6 +12,7 @@ public class String_Class {
  * 	ex) ex06_String
  * 
  * 7-2. String 메소드 
+ * 
  * 	(1) charAt()
  * 		-> 문자열의 특정 자리에 있는 문자를 가져오는 메소드
  * 		-> 괄호 안에 가져오고자 하는 위치에 해당하는 숫자를 넣어주면 됨

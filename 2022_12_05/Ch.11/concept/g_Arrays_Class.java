@@ -1,6 +1,6 @@
 package concept;
 
-public class Arrays_Class {
+public class g_Arrays_Class {
 
 }
 /*

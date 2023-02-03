@@ -1,6 +1,6 @@
 package concept;
 
-public class StringBuilder {
+public class f_StringBuilder {
 
 }
 /*
